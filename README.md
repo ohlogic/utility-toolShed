@@ -32,3 +32,11 @@ A tool to drop a file in a Gtk 3 desktop window and display its
 contents by name and display it in a webkit window to minimize Gtk GUI
 fluff.  It has javascript json communication with the window button action
 and the webkit GUI.  Also it uses modern f-strings.
+
+
+php_apache_server_v3.4.py  ---  20150416
+
+A program to create the latest php and Apache server at the time by 
+modifying the Apache config file to work with php.
+
+
